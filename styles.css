@@ -1,0 +1,16 @@
+.gold-mined {
+    color: rgb(0, 204, 0);
+  }
+
+  body { /* no . means element type */
+    text-align: center; /* text-align centers text AND children */
+  }
+  
+  * { /* * applies to all elements, use with caution */
+    outline: none;
+  }
+
+  body {
+    background-image: url("https://wallpaperplay.com/walls/full/5/8/6/242965.jpg");
+    background-color: #cccccc;
+   }
